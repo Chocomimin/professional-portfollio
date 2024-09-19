@@ -14,8 +14,8 @@ const Portfolio = () => {
       description:
         'Identify fraudulent Instagram profiles instantly with our InstaFakeAccount Detector.',
       technologies: 'machine learning | full stack',
-      link: 'https://adventistlearningcenter-257375ab1970.herokuapp.com/',
-      github: 'https://github.com/Meri-MG/school',
+      link: 'https://github.com/Chocomimin/projectnest2.o-insta-fake-account-detector.git',
+      github: 'https://github.com/Chocomimin/projectnest2.o-insta-fake-account-detector.git',
     },
     {
       id: 2,
@@ -24,8 +24,18 @@ const Portfolio = () => {
       description:
         'Predict Netflix stock prices with precision using advanced algorithms in our AI-driven forecasting tool',
       technologies: 'machine learning | full stack',
-      link: 'https://fakestore-metrics.netlify.app/',
-      github: 'https://github.com/Meri-MG/Fakestore---react',
+      link: 'https://github.com/Chocomimin/netflix-stock-predictor.git',
+      github: 'https://github.com/Chocomimin/netflix-stock-predictor.git',
+    },
+    {
+      id: 3,
+      title: 'note taking application',
+      img: IMG4,
+      description:
+        'A note-taking application allows users to create, edit, organize, and store notes efficiently for personal or professional use',
+      technologies: 'Mern | full stack',
+      link: 'https://github.com/Chocomimin/note-taking-application.git',
+      github: 'https://github.com/Chocomimin/note-taking-application.git',
     },
     
   ];

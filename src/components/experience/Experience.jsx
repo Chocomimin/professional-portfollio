@@ -52,6 +52,10 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>ReactJS</h4>
             </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>MongoDB</h4>
+            </article>
             
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
@@ -86,10 +90,21 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>PowerBI</h4>
             </article>
+            
+          </div>
+        </div>
+        <div className="experience__frontend">
+          <h3>AI</h3>
+          <div className="experience__content">
+          <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>machine learning</h4>
+            </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Tablue</h4>
+              <h4>deep learning</h4>
             </article>
+            
           </div>
         </div>
       </div>

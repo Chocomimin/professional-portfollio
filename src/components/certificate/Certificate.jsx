@@ -23,7 +23,8 @@ import certificationImage14 from '../../assets/mongodb7.png';
 import certificationImage15 from '../../assets/nodejs.png';
 import certificationImage16 from '../../assets/sql.png';
 import certificationImage17 from '../../assets/ml.png';
-
+import certificationImage18 from '../../assets/google.png';
+import certificationImage19 from '../../assets/myntra.png';
 
 
 const Certificate = () => {
@@ -61,6 +62,8 @@ const Certificate = () => {
         <SwiperSlide><img src={certificationImage15} alt="Certification 15" /></SwiperSlide>
         <SwiperSlide><img src={certificationImage16} alt="Certification 16" /></SwiperSlide>
         <SwiperSlide><img src={certificationImage17} alt="Certification 17" /></SwiperSlide>
+        <SwiperSlide><img src={certificationImage18} alt="Certification 18" /></SwiperSlide>
+        <SwiperSlide><img src={certificationImage19} alt="Certification 19" /></SwiperSlide>
       </Swiper>
     </section>
   );
