@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/personal-portfollio/static/css/main.8fbf006b.css",
+    "main.js": "/personal-portfollio/static/js/main.7bf3856e.js",
+    "static/media/insta-app.png": "/personal-portfollio/static/media/insta-app.58b0c04211d57d332418.png",
+    "static/media/ml.png": "/personal-portfollio/static/media/ml.c85032c311a1636487cc.png",
+    "static/media/forage.png": "/personal-portfollio/static/media/forage.57b127398a8ebdba6ac6.png",
+    "static/media/myntra.png": "/personal-portfollio/static/media/myntra.22837ce3231c211db1e1.png",
+    "static/media/ai.png": "/personal-portfollio/static/media/ai.4dbfa3ef5bed483ee2bd.png",
+    "static/media/mongodb5.png": "/personal-portfollio/static/media/mongodb5.523d0c6dc96397d1670f.png",
+    "static/media/mongodb6.png": "/personal-portfollio/static/media/mongodb6.523d0c6dc96397d1670f.png",
+    "static/media/nodejs.png": "/personal-portfollio/static/media/nodejs.3f5db0e0322c5dc34885.png",
+    "static/media/mongodb4.png": "/personal-portfollio/static/media/mongodb4.ff94816ea46881db6c71.png",
+    "static/media/mongodb1.png": "/personal-portfollio/static/media/mongodb1.ded3b117e0a2756a7296.png",
+    "static/media/mongodb7.png": "/personal-portfollio/static/media/mongodb7.c48f5905c254dba6e926.png",
+    "static/media/mongodb2.png": "/personal-portfollio/static/media/mongodb2.bf027281840815a05b22.png",
+    "static/media/mongodb3.png": "/personal-portfollio/static/media/mongodb3.45b258b196289e40a2cf.png",
+    "static/media/mongodb.png": "/personal-portfollio/static/media/mongodb.1fd7b03339581c75d10c.png",
+    "static/media/netflix-app.png": "/personal-portfollio/static/media/netflix-app.3b473c177179ce266c97.png",
+    "static/media/front.png": "/personal-portfollio/static/media/front.fdb2e978cccc2bbf1b43.png",
+    "static/media/google.png": "/personal-portfollio/static/media/google.980498c3df03ab5b899b.png",
+    "static/media/html.png": "/personal-portfollio/static/media/html.94d53fb09a9937acc028.png",
+    "static/media/css.png": "/personal-portfollio/static/media/css.d5b483b9d1e4a89ffb7a.png",
+    "static/media/sql.png": "/personal-portfollio/static/media/sql.3ca4aa4d39d1aeb30ff4.png",
+    "static/media/edyst.jpg": "/personal-portfollio/static/media/edyst.d890db28abb3815afcd9.jpg",
+    "static/media/cv_meri_gogichashvili.pdf": "/personal-portfollio/static/media/cv_meri_gogichashvili.8be4addddb7f9d4f49aa.pdf",
+    "static/media/notebook.png": "/personal-portfollio/static/media/notebook.fafd86222c8278b2f1c1.png",
+    "static/media/WhatsApp Image 2024-05-15 at 15.29.25_3acaad93.jpg": "/personal-portfollio/static/media/WhatsApp Image 2024-05-15 at 15.29.25_3acaad93.6111d8cbca89edaa96f6.jpg",
+    "index.html": "/personal-portfollio/index.html",
+    "main.8fbf006b.css.map": "/personal-portfollio/static/css/main.8fbf006b.css.map",
+    "main.7bf3856e.js.map": "/personal-portfollio/static/js/main.7bf3856e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fbf006b.css",
+    "static/js/main.7bf3856e.js"
+  ]
+}
