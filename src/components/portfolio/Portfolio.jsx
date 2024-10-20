@@ -1,7 +1,8 @@
 import React from 'react';
-import IMG1 from '../../assets/alc.png';
+import IMG1 from '../../assets/insta-app.png';
 
-import IMG4 from '../../assets/fake.png';
+import IMG4 from '../../assets/netflix-app.png';
+import IMG2 from '../../assets/notebook.png';
 
 import './portfolio.css';
 
@@ -30,7 +31,7 @@ const Portfolio = () => {
     {
       id: 3,
       title: 'note taking application',
-      img: IMG4,
+      img: IMG2,
       description:
         'A note-taking application allows users to create, edit, organize, and store notes efficiently for personal or professional use',
       technologies: 'Mern | full stack',

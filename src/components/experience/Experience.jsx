@@ -27,18 +27,6 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>React</h4>
             </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Bootstrap</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>SCSS</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Tailwind</h4>
-            </article>
           </div>
         </div>
         <div className="experience__backend">
