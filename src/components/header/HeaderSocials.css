@@ -1,0 +1,34 @@
+/* Media query for tablets and small screens */
+
+@media screen and (max-width: 1024px) {
+    .header__socials {
+        justify-content: center;
+        /* Center icons on smaller screens */
+        margin: -1rem 0;
+        /* Adjust margin for smaller screens */
+        margin-left: -10%;
+    }
+    .header__socials a {
+        font-size: 1.2rem;
+        /* Smaller icons */
+    }
+}
+
+
+/* Media query for mobile screens */
+
+@media screen and (max-width: 600px) {
+    .header__socials {
+        flex-direction: column;
+        /* Stack icons vertically */
+        align-items: center;
+        /* Center items horizontally */
+        margin-left: -10%;
+    }
+    .header__socials a {
+        font-size: 1.5rem;
+        /* Keep larger icons for better touch target */
+        margin: 0.5rem 0;
+        /* Space between icons */
+    }
+}
