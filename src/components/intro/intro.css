@@ -85,13 +85,7 @@
 @media screen and (max-width: 600px) {
     .about__me {
         width: 100%;
-    }
-    .about__me-image {
-        border-radius: 2rem;
-        height: 130%;
-        overflow: hidden;
-        transform: rotate(10deg);
-        transition: var(--transition);
+        height: 78%;
     }
     .about__cards {
         grid-template-columns: 1fr 1fr;
