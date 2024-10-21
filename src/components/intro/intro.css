@@ -85,7 +85,6 @@
 @media screen and (max-width: 600px) {
     .about__me {
         width: 100%;
-        height: 78%;
     }
     .about__me-image {
         border-radius: 2rem;
