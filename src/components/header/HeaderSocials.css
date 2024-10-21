@@ -23,7 +23,7 @@
         /* Stack icons vertically */
         align-items: center;
         /* Center items horizontally */
-        margin-left: 1%;
+        margin-left: 10%;
     }
     .header__socials a {
         font-size: 1.5rem;
