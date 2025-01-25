@@ -25,7 +25,7 @@ const Portfolio = () => {
       description:
         'Predict Netflix stock prices with precision using advanced algorithms in our AI-driven forecasting tool',
       technologies: 'machine learning | full stack',
-      link: 'https://github.com/Chocomimin/netflix-stock-predictor.git',
+      link: 'https://predictor12.netlify.app/',
       github: 'https://github.com/Chocomimin/netflix-stock-predictor.git',
     },
     {
